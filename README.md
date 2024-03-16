@@ -9,3 +9,16 @@ Found a zip at:
 Downloaded the zip and getting started!
 
 
+## Filing in 
+
+Using Pharo 11.0, 64-bit stable, 
+created and launched with PharoLauncher, 
+Open FileBrowser on files and file in one-by-one, starting 
+with the '01', '02' and so on, doing the 'zz_..' last.
+
+Find the classes by opening (in a System Browser) the packages
+Statistics and Simulations. 
+
+Blue Book: 
+
+- [https://wiki.squeak.org/squeak/64](https://wiki.squeak.org/squeak/64)
